@@ -1,6 +1,6 @@
 # Excel Data Analysis Portfolio
 
-Hi, I'm [Your Name]. This repo collects the Excel projects I've built while learning data analysis. Each project has its own folder with the workbook and a short write-up of how I did it.
+Hi, I'm Vinayak M. This repo collects the Excel projects I've built while learning data analysis. Each project has its own folder with the workbook and a short write-up of how I did it.
 
 **Skills shown:** data cleaning, SUMIFS / COUNTIFS, TRIM / PROPER, IF logic, RANK, INDEX / MATCH, conditional formatting, charts, summary reports.
 
@@ -49,5 +49,5 @@ More projects will be added here.
 
 ## Contact
 
-- LinkedIn: [your link]
-- Email: [your email]
+- LinkedIn: [https://www.linkedin.com/in/vinayak-sunil-mestry-953568386/]
+- Email: [vmestry351@gmail.com]
