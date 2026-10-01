@@ -1,0 +1,66 @@
+﻿Order ID,Order Date,Ship Date,Customer ID,Customer Name,Segment,Region,City,Category,Sub-Category,Product ID,Product Name,Qty,Unit Price (₹),Discount,Sales (₹),Cost (₹),Profit (₹),Returned
+ORD-2086,2025-02-01,2025-02-03,C001,Neha Verma,Consumer,South,Bengaluru,Beauty,Makeup,P027,Lip Balm Set,1,399,0.1,359,160,199,N
+ORD-2087,2025-02-01,2025-02-02,C100,Naveen Shah,Corporate,West,Mumbai,Beauty,Makeup,P027,Lip Balm Set,1,399,0.15,339,160,179,N
+ORD-2088,2025-02-02,2025-02-07,C121,Harsh Kumar,Consumer,East,Kolkata,Apparel,Footwear,P020,Running Shoes,4,3299,0.2,10557,7600,2957,N
+ORD-2089,2025-02-02,2025-02-07,C134,Pankaj Patel,Consumer,South,Chennai,Furniture,Seating,P033,Office Chair,1,8999,0.3,6299,6800,-501,N
+ORD-2090,2025-02-03,2025-02-08,C089,Divya Kumar,Consumer,South,Hyderabad,Furniture,Storage,P035,Bookshelf,2,5999,0.3,8399,9200,-801,N
+ORD-2091,2025-02-04,2025-02-07,C109,Aarav Kulkarni,Home Office,South,Bengaluru,Apparel,Topwear,P007,Hoodie,1,1799,0.1,1619,950,669,N
+ORD-2092,2025-02-04,2025-02-05,C008,Riya Bose,Home Office,West,Mumbai,Electronics,Accessories,P019,Webcam HD,2,2199,0.0,4398,2800,1598,N
+ORD-2093,2025-02-05,2025-02-11,C071,Priya Shah,Consumer,South,Bengaluru,Stationery,Desk,P032,Whiteboard,6,1299,0.0,7794,4680,3114,N
+ORD-2094,2025-02-05,2025-02-07,C116,Meera Joshi,Consumer,North,Delhi,Home,Kitchen,P009,Coffee Maker,2,2999,0.05,5698,4000,1698,N
+ORD-2095,2025-02-05,2025-02-12,C014,Rahul Jain,Consumer,South,Bengaluru,Stationery,Paper,P013,Notebook,6,149,0.0,894,420,474,N
+ORD-2096,2025-02-06,2025-02-13,C045,Vivaan Bose,Consumer,South,Bengaluru,Furniture,Seating,P033,Office Chair,3,8999,0.2,21598,20400,1198,Y
+ORD-2097,2025-02-07,2025-02-12,C168,Divya Kapoor,Consumer,North,Delhi,Home,Decor,P025,Cushion Cover Set,2,699,0.0,1398,640,758,N
+ORD-2098,2025-02-07,2025-02-13,C085,Vivaan Jain,Home Office,South,Bengaluru,Electronics,Audio,P018,Noise-Cancelling Headphones,2,7999,0.15,13598,11200,2398,N
+ORD-2099,2025-02-08,2025-02-10,C084,Meera Chopra,Corporate,East,Kolkata,Home,Kitchen,P024,Air Fryer,3,5499,0.05,15672,11700,3972,N
+ORD-2100,2025-02-08,2025-02-13,C019,Mohit Rao,Home Office,South,Bengaluru,Furniture,Tables,P038,Bedside Table,1,3499,0.3,2449,2500,-51,N
+ORD-2101,2025-02-08,2025-02-13,C197,Meera Nair,Corporate,East,Kolkata,Furniture,Storage,P037,Shoe Rack,1,2499,0.3,1749,1700,49,N
+ORD-2102,2025-02-09,2025-02-15,C060,Divya Mehta,Consumer,South,Hyderabad,Apparel,Bottomwear,P023,Yoga Pants,1,1199,0.3,839,600,239,N
+ORD-2103,2025-02-10,2025-02-16,C210,Sahil Desai,Home Office,South,Bengaluru,Home,Decor,P010,Table Lamp,2,999,0.05,1898,1040,858,N
+ORD-2104,2025-02-10,2025-02-17,C059,Vikram Verma,Consumer,South,Chennai,Electronics,Audio,P018,Noise-Cancelling Headphones,2,7999,0.1,14398,11200,3198,N
+ORD-2105,2025-02-12,2025-02-13,C014,Rahul Jain,Consumer,South,Bengaluru,Apparel,Footwear,P020,Running Shoes,1,3299,0.0,3299,1900,1399,N
+ORD-2106,2025-02-12,2025-02-15,C125,Rahul Shah,Consumer,North,Delhi,Home,Kitchen,P009,Coffee Maker,1,2999,0.0,2999,2000,999,N
+ORD-2107,2025-02-12,2025-02-14,C049,Mohit Nair,Consumer,South,Bengaluru,Stationery,Paper,P013,Notebook,4,149,0.0,596,280,316,N
+ORD-2108,2025-02-12,2025-02-15,C137, Priya Verma ,Consumer,South,Bengaluru,Furniture,Storage,P037,Shoe Rack,1,2499,0.0,2499,1700,799,N
+ORD-2109,2025-02-13,2025-02-15,C123,Harsh Menon,Consumer,East,Kolkata,Furniture,Tables,P034,Study Table,2,6499,0.1,11698,10000,1698,N
+ORD-2110,2025-02-14,2025-02-19,C116,Meera Joshi,Consumer,North,Delhi,Furniture,Tables,P034,Study Table,1,6499,0.4,3899,5000,-1101,N
+ORD-2111,2025-02-14,2025-02-19,C158,Ramesh Sharma,Consumer,South,Bengaluru,Apparel,Footwear,P020,Running Shoes,1,3299,0.4,1979,1900,79,N
+ORD-2112,2025-02-14,2025-02-16,C166,Suresh Nair,Home Office,North,Delhi,Beauty,Fragrance,P012,Perfume,3,1599,0.15,4077,2250,1827,N
+ORD-2113,2025-02-14,2025-02-16,C153,Meera Malhotra,Consumer,North,Delhi,Home,Decor,P025,Cushion Cover Set,2,699,0.05,1328,640,688,N
+ORD-2114,2025-02-14,2025-02-20,C187,Ananya Bose,Consumer,North,Delhi,Home,Kitchen,P009,Coffee Maker,1,2999,0.05,2849,2000,849,N
+ORD-2115,2025-02-15,2025-02-16,C185,Rohan Desai,Consumer,South,Hyderabad,Home,Decor,P025,Cushion Cover Set,4,699,0.0,2796,1280,1516,N
+ORD-2116,2025-02-15,2025-02-20,C071,Priya Shah,Consumer,South,Bengaluru,Home,Kitchen,P009,Coffee Maker,2,2999,0.05,5698,4000,1698,N
+ORD-2117,2025-02-16,2025-02-22,C028,Deepak Kulkarni,Consumer,West,Mumbai,Home,Decor,P010,Table Lamp,1,999,0.05,949,520,429,N
+ORD-2118,2025-02-16,2025-02-23,C157,Aarav Bhatt,Corporate,South,Bengaluru,Stationery,Desk,P030,Stapler Set,3,249,0.0,747,360,387,N
+ORD-2119,2025-02-16,2025-02-22,C084,Meera Chopra,Corporate,East,Kolkata,Home,Decor,P025,Cushion Cover Set,1,699,0.3,489,320,169,N
+ORD-2120,2025-02-17,2025-02-24,C045,Vivaan Bose,Consumer,South,Bengaluru,Apparel,Bottomwear,P023,Yoga Pants,5,1199,0.1,5396,3000,2396,N
+ORD-2121,2025-02-17,2025-02-19,C182,Zoya Verma,Consumer,West,Pune,Furniture,Tables,P038,Bedside Table,1,3499,0.0,3499,2500,999,Y
+ORD-2122,2025-02-18,2025-02-20,C108,Manoj Gupta,Home Office,North,Delhi,Furniture,Seating,P036,Sofa Chair,1,12999,0.1,11699,10200,1499,N
+ORD-2123,2025-02-19,2025-02-23,C068,Varun Nair,Corporate,West,Mumbai,Furniture,Tables,P038,Bedside Table,1,3499,0.1,3149,2500,649,N
+ORD-2124,2025-02-19,2025-02-24,C018,Riya Pillai,Home Office,West,Mumbai,Stationery,Paper,P013,Notebook,1,149,0.05,142,70,72,N
+ORD-2125,2025-02-20,2025-02-25,C142,Meera Menon,Consumer,South,Chennai,Furniture,Seating,P033,Office Chair,2,8999,0.4,10799,13600,-2801,N
+ORD-2126,2025-02-20,2025-02-26,C081,Arjun Iyer,Consumer,South,Bengaluru,Electronics,Audio,P018,Noise-Cancelling Headphones,1,7999,0.0,7999,5600,2399,N
+ORD-2127,2025-02-21,2025-02-22,C169,Priya Bose,Home Office,West,Mumbai,Home,Decor,P025,Cushion Cover Set,1,699,0.2,559,320,239,N
+ORD-2128,2025-02-21,2025-02-24,C129,Mohit Kumar,Consumer,West,Mumbai,Furniture,Storage,P035,Bookshelf,3,5999,0.3,12598,13800,-1202,N
+ORD-2129,2025-02-21,2025-02-24,C204,Anjali Das,Home Office,East,Kolkata,Apparel,Topwear,P007,Hoodie,1,1799,0.0,1799,950,849,N
+ORD-2130,2025-02-22,2025-02-23,C095,Pooja Kapoor,Consumer,West,Pune,Stationery,Desk,P032,Whiteboard,5,1299,0.0,6495,3900,2595,N
+ORD-2131,2025-02-22,2025-02-24,C211,Rohan Kumar,Consumer,North,Delhi,Home,Bedding,P008,Cotton Bedsheet,1,1299,0.0,1299,700,599,N
+ORD-2132,2025-02-22,2025-02-26,C211,Rohan Kumar,Consumer,North,Delhi,Furniture,Storage,P035,Bookshelf,2,5999,0.4,7199,9200,-2001,N
+ORD-2133,2025-02-23,2025-02-26,C186,Ananya Shah,Corporate,North,Delhi,Furniture,Storage,P035,Bookshelf,3,5999,0.4,10798,13800,-3002,N
+ORD-2134,2025-02-23,2025-02-28,C209,Aditya Malhotra,Consumer,East,Kolkata,Apparel,Topwear,P021,Formal Shirt,3,1499,0.4,2698,2250,448,N
+ORD-2135,2025-02-23,2025-02-26,C085,Vivaan Jain,Home Office,South,Bengaluru,Beauty,Makeup,P027,Lip Balm Set,1,399,0.2,319,160,159,N
+ORD-2136,2025-02-25,2025-02-27,C120,Anjali Patel,Consumer,North,Delhi,Home,Kitchen,P009,Coffee Maker,2,2999,0.2,4798,4000,798,N
+ORD-2137,2025-02-25,2025-02-27,C149,Deepak Jain,Corporate,North,Delhi,Beauty,Fragrance,P012,Perfume,4,1599,0.15,5437,3000,2437,N
+ORD-2138,2025-02-25,2025-03-03,C013,Suresh Malhotra,Consumer,South,Bengaluru,Home,Decor,P026,Wall Clock,2,1199,0.2,1918,1300,618,N
+ORD-2139,2025-02-26,2025-03-05,C089,Divya Kumar,Consumer,south,Hyderabad,Home,Kitchen,P024,Air Fryer,1,5499,0.0,5499,3900,1599,N
+ORD-2140,2025-02-26,2025-03-01,C054,Sneha Mehta,Consumer,West,Mumbai,Electronics,Wearables,P002,Smart Watch,1,5999,0.15,5099,4300,799,N
+ORD-2141,2025-02-26,2025-02-27,C049,Mohit Nair,Consumer,South,Bengaluru,Stationery,Writing,P014,Gel Pens Pack,3,199,0.05,567,270,297,N
+ORD-2142,2025-02-26,2025-03-02,C107,Kunal Reddy,Consumer,West,Ahmedabad,Home,Decor,P025,Cushion Cover Set,1,699,0.0,699,320,379,N
+ORD-2143,2025-02-26,2025-02-27,C177,Mohit Iyer,Consumer,North,Delhi,Furniture,Storage,P037,Shoe Rack,4,2499,0.4,5998,6800,-802,N
+ORD-2144,2025-02-27,2025-03-01,C080,Neha Saxena,Consumer,West,Mumbai,Furniture,Storage,P035,Bookshelf,2,5999,0.3,8399,9200,-801,N
+ORD-2145,2025-02-27,2025-03-05,C036,Shreya Nair,Consumer,North,Delhi,Stationery,Desk,P032,Whiteboard,4,1299,0.1,4676,3120,1556,N
+ORD-2146,2025-02-27,2025-03-01,C047,Arjun Kulkarni,Consumer,North,Delhi,Furniture,Storage,P037,Shoe Rack,1,2499,0.4,1499,1700,-201,N
+ORD-2146,2025-02-27,2025-03-01,C047,Arjun Kulkarni,Consumer,North,Delhi,Furniture,Storage,P037,Shoe Rack,1,2499,0.4,1499,1700,-201,N
+ORD-2147,2025-02-27,2025-03-05,C018,Riya Pillai,Home Office,West,Mumbai,Electronics,Audio,P018,Noise-Cancelling Headphones,1,7999,0.1,7199,5600,1599,N
+ORD-2148,2025-02-28,2025-03-07,C051,Suresh Bhatt,Consumer,West,Mumbai,Beauty,Makeup,P027,Lip Balm Set,2,399,0.0,798,320,478,N
+ORD-2149,2025-02-28,2025-03-05,C054,Sneha Mehta,Consumer,West,Mumbai,Furniture,Storage,P037,Shoe Rack,3,2499,0.2,5998,5100,898,N
